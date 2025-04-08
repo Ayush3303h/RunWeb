@@ -43,7 +43,7 @@ function App() {
   return (
     <>
       <div class="navbar" fit>
-        <Link to='/'> <h2><FontAwesomeIcon icon={faCodepen} className='logoo' />  CodePen</h2> </Link>
+        <Link to='/'> <h2><FontAwesomeIcon icon={faCodepen} className='logoo' />  RunWeb</h2> </Link>
         <div>
           <button className="reset"  id='Trash' onClick={clearTrash}><FontAwesomeIcon icon={faTrashCanArrowUp} />    Trash</button>
           <button className="reset" onClick={handleReset}><FontAwesomeIcon icon={faRetweet} />  Reset</button>
