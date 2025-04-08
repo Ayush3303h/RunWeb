@@ -3,7 +3,7 @@ import Editor from "./Editor";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import { faAngleUp, faAngleDown, faTrashCanArrowUp, faRetweet } from '@fortawesome/free-solid-svg-icons';
 import { faCodepen } from '@fortawesome/free-brands-svg-icons';
-import {text_css, text_html, text_js} from "../rock paper scissors/first";
+import {text_css, text_html, text_js} from "../tic-tak-toe/first";
 import {Link} from 'react-router-dom';
 
 
